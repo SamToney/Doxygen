@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author James Toney
+ * @date 2025-04-22
+ * @brief Employee Program
+ * 
+ * Organizes employee data
+ */
+
 
 #include <iostream>
 #include "Employee.h"
