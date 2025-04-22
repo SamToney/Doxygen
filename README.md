@@ -1,4 +1,1 @@
-# Employee Management System {#mainpage}
-
-@tableofcontents
-
+Repository for Doxygen assignment
