@@ -1,3 +1,12 @@
+/**
+ * @file Officer.cpp
+ * @author Sam Toney
+ * @date 2025-04-22
+ * @brief Method implementation for Officer program
+ * 
+ * Holds implementations for the methods contained in the Officer class.
+ */
+
 #include "Officer.h"
 #include <iostream>
 

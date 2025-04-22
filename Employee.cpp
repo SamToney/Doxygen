@@ -1,3 +1,12 @@
+/**
+ * @file Employee.cpp
+ * @author Sam Toney
+ * @date 2025-04-22
+ * @brief Method implementation for Employee program
+ * 
+ * Holds implementations for methods contained in the Employee class
+ */
+
 #include "Employee.h"
 #include <iostream>
 
