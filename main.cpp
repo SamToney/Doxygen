@@ -6,6 +6,8 @@
 
 using namespace std;
 
+/** \file */
+
 void runEmployeeTests(Employee & e);
 
 int main() {
