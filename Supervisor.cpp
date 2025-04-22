@@ -1,3 +1,12 @@
+/**
+ * @file Supervisor.cpp
+ * @author Sam Toney
+ * @date 2025-04-22
+ * @brief Method implementation for Supervisor program
+ * 
+ * Holds implementations for methods contained in the Supervisor class
+ */
+
 #include "Supervisor.h"
 #include <iostream>
 
